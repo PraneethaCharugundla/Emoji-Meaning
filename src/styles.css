@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#container {
+  padding: 1rem;
+}
+h1 {
+  font-family: "Oswald", sans-serif;
+}
+body {
+  background-color: orangered;
+}
+h2 {
+  color: white;
+}
